@@ -158,3 +158,4 @@ X_train ,X_test , y_train ,y_test = data_preprocessing(df)
 model_comparsion = data_model(df)
 
 
+print(model_comparsion)
